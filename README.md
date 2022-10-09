@@ -3,7 +3,7 @@
 **Feature selection is the most important aspect of creating a model. If we have too many features, the model can capture the unimportant patterns and learn from noise. Including incorrect metrics is likely to weaken the overall performance and could reduce the statistical inference of the model**
 
 ### Objective
-The following notebook leverages the adult’s dataset provided by the UCI Machine Learning Repository. This dataset is used to predict whether income exceeds $50K/yr based on census data. Within this notebook we will be utilising the scikit-learn framework to select the appropriate fields for a predictive model.
+The following notebook leverages the adult’s dataset provided by the UCI Machine Learning Repository. This dataset is used to predict whether income exceeds $50K/yr based on census data. Within this notebook we will be utilising the scikit-learn package to select the appropriate fields for a predictive model.
 
 Link to Dataset: https://archive.ics.uci.edu/ml/datasets/Adult
 
